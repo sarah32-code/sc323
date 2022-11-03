@@ -75,8 +75,7 @@ def last_five(input_list):
 
     """
 
-    return input_list[-5:]
-
+    return input_list[-5: ]
 
 def middle(input_list):
     """Return all elements of input_list except the first two and the last two.
